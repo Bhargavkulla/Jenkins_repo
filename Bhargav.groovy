@@ -5,7 +5,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 // Make sure the Git URL is correct
-                git 'https://github.com/your-username/your-repo.git'
+                git 'https://github.com/Bhargavkulla/Jenkins_repo.git'
             }
         }
 
